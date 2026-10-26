@@ -1,205 +1,31 @@
 {
-  "name": "Some apps",
-  "subtitle": "Some apps and signers!",
-  "description": "First repo, hope it goes good!",
-  "iconURL": "https://i.imgur.com/DhbWGhB.png",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#c40047",
-  "featuredApps": [],
+  "name": "GhostMox Signers",
+  "identifier": "lol.ghostmox.signing",
+  "subtitle": "eSign & KSign",
+  "description": "Personal source by GhostMox",
+  "iconURL": "https://i.imgur.com/ebE78wt.png",
+  "tintColor": "3c94fc",
   "apps": [
-    {
-      "name": "Demoloop",
-      "bundleIdentifier": "com.fakeahhdemolop.Demoloop",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "",
-      "localizedDescription": "Make your device feel an Apple Store phone.",
-      "iconURL": "https://i.imgur.com/jVsSbYV.png",
-      "tintColor": "#d06c15",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "mond",
-      "bundleIdentifier": "com.roooot.mond",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "Mobile gestalt editor for iOS 27 beta 1 - 4",
-      "localizedDescription": "Shouldve typed the subtitle here -_-",
-      "iconURL": "https://i.imgur.com/bf2Ax9L.png",
-      "tintColor": "#04c4d4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PancakeStore",
-      "bundleIdentifier": "com.jbdotparty.PancakeStore",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "For iOS 26",
-      "localizedDescription": "App downgrader",
-      "iconURL": "https://i.imgur.com/Elwbscr.png",
-      "tintColor": "#fc8c34",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "Yay free Spotify!!!!!",
-      "localizedDescription": "Free Spotify!",
-      "iconURL": "https://i.imgur.com/itjUa65.png",
-      "tintColor": "#1cd464",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
-          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
-          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
-          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
-          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
-          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
-          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "LiveContainer",
-      "bundleIdentifier": "com.kdt.livecontainer",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "Not like a signer but it does his job",
-      "localizedDescription": "Ok",
-      "iconURL": "https://i.imgur.com/im8iw00.png",
-      "tintColor": "#047afc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
-          "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
-          "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
-          "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
-          "NSCameraUsageDescription": "The guest app is requesting for this permission.",
-          "NSContactsUsageDescription": "The guest app is requesting for this permission.",
-          "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
-          "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
-          "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
-          "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
-          "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
-          "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
-          "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
-          "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
-          "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission.",
-          "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
-          "NSLocationUsageDescription": "The guest app is requesting for this permission.",
-          "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
-          "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
-          "NSMotionUsageDescription": "The guest app is requesting for this permission.",
-          "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
-          "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
-          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
-          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
-          "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
-          "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
-          "NSSiriUsageDescription": "The guest app is requesting for this permission.",
-          "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
-          "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather",
-      "marketplaceID": "",
-      "developerName": "GhostMox",
-      "subtitle": "Festher",
-      "localizedDescription": "Feathering.",
-      "iconURL": "https://i.imgur.com/tn0EqaF.png",
-      "tintColor": "#051df9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
-        }
-      },
-      "patreon": {}
-    },
     {
       "name": "Ksign",
       "bundleIdentifier": "nya.asami.ksign",
-      "marketplaceID": "",
       "developerName": "GhostMox",
       "subtitle": "The cleaner Esign app",
       "localizedDescription": "Yo im ghostmox thanks for using my ksign:) appreciate it\n\nModern on-device signer based on Feather. Supports iOS 16+",
       "iconURL": "https://i.imgur.com/ebE78wt.png",
-      "tintColor": "#3c94fc",
+      "tintColor": "3c94fc",
       "category": "utilities",
-      "screenshots": [],
       "versions": [
         {
           "version": "1.6.1",
-          "date": "2026-10-22",
-          "localizedDescription": "Yo im ghostmox thanks for using my ksign:) appreciate it",
-          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/beta/Ksign.ipa",
-          "size": 16000000,
           "buildVersion": "1",
-          "minOSVersion": "16.0"
+          "date": "2026-10-22",
+          "size": 16000000,
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/beta/Ksign.ipa",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Yo im ghostmox thanks for using my ksign:) appreciate it"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      ]
     }
-  ],
-  "news": []
+  ]
 }
