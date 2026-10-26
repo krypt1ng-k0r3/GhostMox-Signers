@@ -1,0 +1,31 @@
+{
+  "name": "GhostMox Signers",
+  "identifier": "lol.ghostmox.signing",
+  "subtitle": "eSign & KSign",
+  "description": "Personal source by GhostMox",
+  "iconURL": "https://i.imgur.com/ebE78wt.png",
+  "tintColor": "3c94fc",
+  "apps": [
+    {
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "developerName": "GhostMox",
+      "subtitle": "The cleaner Esign app",
+      "localizedDescription": "Yo im ghostmox thanks for using my ksign:) appreciate it\n\nModern on-device signer based on Feather. Supports iOS 16+",
+      "iconURL": "https://i.imgur.com/ebE78wt.png",
+      "tintColor": "3c94fc",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.6.1",
+          "buildVersion": "1",
+          "date": "2026-10-22",
+          "size": 16000000,
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/beta/Ksign.ipa",
+          "minOSVersion": "16.0",
+          "localizedDescription": "Yo im ghostmox thanks for using my ksign:) appreciate it"
+        }
+      ]
+    }
+  ]
+}
